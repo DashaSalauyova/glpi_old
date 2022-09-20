@@ -1,0 +1,56 @@
+2022-08-09 16:45:16 [2@IMMOL964]
+CSRF check failed for User ID: 2 at /glpi/front/plugin.php2022-08-10 12:03:13 [2@IMMOL964]
+CSRF check failed for User ID: 2 at /glpi/front/massiveaction.php2022-08-10 14:43:18 [2@IMMOL964]
+User ID: 2 tried to access or perform an action on /glpi/front/knowbaseitem_item.form.php with insufficient rights. Additional information: User failed a can* method check for right 4 (unknown right name) on item Type: KnowbaseItem_Item ID: -1
+	Stack Trace:
+		C:\xampp\htdocs\glpi\src\CommonDBTM.php:2946 displayRightError()
+		C:\xampp\htdocs\glpi\front\knowbaseitem_item.form.php:51 check()
+2022-08-10 16:03:24 [2@IMMOL964]
+User ID: 2 tried to access or perform an action on /glpi/front/knowbaseitem_item.form.php with insufficient rights. Additional information: User failed a can* method check for right 4 (unknown right name) on item Type: KnowbaseItem_Item ID: -1
+	Stack Trace:
+		C:\xampp\htdocs\glpi\src\CommonDBTM.php:2946 displayRightError()
+		C:\xampp\htdocs\glpi\front\knowbaseitem_item.form.php:51 check()
+2022-08-11 10:55:11 [2@IMMOL964]
+CSRF check failed for User ID: 2 at /glpi/plugins/formcreator/front/targetticket.form.php2022-08-11 11:16:41 [2@IMMOL964]
+CSRF check failed for User ID: 2 at /glpi/ajax/massiveaction.php2022-08-11 11:22:46 [2@IMMOL964]
+CSRF check failed for User ID: 2 at /glpi/front/massiveaction.php2022-08-11 15:42:13 [7@IMMOL964]
+User ID: 7 tried to access or perform an action on /glpi/plugins/formcreator/front/form.form.php with insufficient rights. Additional information: User is missing the 2 (unknown right name) right for entity
+	Stack Trace:
+		C:\xampp\htdocs\glpi\src\Session.php:984 displayRightError()
+		C:\xampp\htdocs\glpi\plugins\formcreator\front\form.form.php:175 checkRight()
+2022-08-11 16:19:07 [2@IMMOL964]
+CSRF check failed for User ID: 2 at /glpi/ajax/massiveaction.php2022-08-11 17:58:00 [7@IMMOL964]
+CSRF check failed for User ID: 7 at /glpi/plugins/formcreator/front/form.form.php2022-08-11 18:34:44 [7@IMMOL964]
+CSRF check failed for User ID: 7 at /glpi/plugins/formcreator/front/form.form.php2022-08-11 18:34:45 [7@IMMOL964]
+CSRF check failed for User ID: 7 at /glpi/plugins/formcreator/front/form.form.php2022-08-11 18:34:48 [7@IMMOL964]
+User ID: 7 tried to access or perform an action on /glpi/plugins/formcreator/front/form.form.php with insufficient rights. Additional information: User is missing the 2 (unknown right name) right for entity
+	Stack Trace:
+		C:\xampp\htdocs\glpi\src\Session.php:984 displayRightError()
+		C:\xampp\htdocs\glpi\plugins\formcreator\front\form.form.php:175 checkRight()
+2022-08-11 22:21:42 [2@IMMOL964]
+CSRF check failed for User ID: 2 at /glpi/ajax/comments.php2022-08-11 22:27:13 [7@IMMOL964]
+CSRF check failed for User ID: 7 at /glpi/plugins/formcreator/front/form.form.php2022-08-11 22:27:17 [7@IMMOL964]
+User ID: 7 tried to access or perform an action on /glpi/plugins/formcreator/front/form.form.php with insufficient rights. Additional information: User is missing the 2 (unknown right name) right for entity
+	Stack Trace:
+		C:\xampp\htdocs\glpi\src\Session.php:984 displayRightError()
+		C:\xampp\htdocs\glpi\plugins\formcreator\front\form.form.php:175 checkRight()
+2022-08-11 22:31:38 [7@IMMOL964]
+CSRF check failed for User ID: 7 at /glpi/plugins/formcreator/front/form.form.php2022-08-18 13:20:35 [2@IMMOL964]
+CSRF check failed for User ID: 2 at /glpi/front/plugin.form.php2022-08-18 13:20:35 [2@IMMOL964]
+CSRF check failed for User ID: 2 at /glpi/front/plugin.form.php2022-08-18 13:20:35 [2@IMMOL964]
+CSRF check failed for User ID: 2 at /glpi/front/plugin.form.php2022-08-18 13:20:35 [2@IMMOL964]
+CSRF check failed for User ID: 2 at /glpi/front/plugin.form.php2022-08-23 11:44:39 [2@IMMOL964]
+CSRF check failed for User ID: 2 at /glpi/plugins/formcreator/ajax/showfields.php2022-08-24 15:03:44 [@IMMOL964]
+User ID:  tried to access or perform an action on /glpi/plugins/formcreator/front/issue.php with insufficient rights. Additional information: No additional information given
+	Stack Trace:
+		C:\xampp\htdocs\glpi\plugins\formcreator\front\issue.php:40 displayRightError()
+2022-08-25 15:41:57 [2@IMMOL964]
+CSRF check failed for User ID: 2 at /glpi/front/plugin.form.php2022-08-29 15:02:46 [7@IMMOL964]
+CSRF check failed for User ID: 7 at /glpi/front/login.php2022-08-29 19:27:43 [2@IMMOL964]
+CSRF check failed for User ID: 2 at /glpi_old/front/plugin.form.php2022-08-31 15:57:46 [2@IMMOL964]
+CSRF check failed for User ID: 2 at /glpi_old/front/plugin.form.php2022-09-05 10:12:03 [2@IMMOL964]
+CSRF check failed for User ID: 2 at /glpi_old/plugins/mreporting/front/graph.php?short_classname=Helpdesk&f_name=reportLineNbTicket&gtype=line2022-09-05 10:18:32 [2@IMMOL964]
+CSRF check failed for User ID: 2 at /glpi_old/plugins/mreporting/front/graph.php?short_classname=Helpdeskplus&f_name=reportGlineBacklogs&gtype=gline2022-09-09 14:46:19 [2@IMMOL964]
+CSRF check failed for User ID: 2 at /glpi_old/ajax/search.php2022-09-14 13:17:23 [2@IMMOL964]
+CSRF check failed for User ID: 2 at /glpi_old/ajax/search.php2022-09-15 15:23:41 [2@IMMOL964]
+CSRF check failed for User ID: 2 at /glpi_old/ajax/search.php

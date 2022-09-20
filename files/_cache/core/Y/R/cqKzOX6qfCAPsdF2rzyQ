@@ -1,0 +1,37 @@
+1662988034
+bc55b8c82fd3437d5e69a87da4e380cfb6c10254
+a:1:{s:71:"plugin_formcreator_assigned_issues_980177ca-fbd0-45a1-89f9-73f36f47c5c5";s:1161:"      <style>
+         #bn_240180883 {
+            background-color: #eaf4f7;
+            color: #56a7bf;
+         }
+
+         #bn_240180883:hover {
+            background-color: #b3d7e2;
+            border: 1px solid #7bbacd;
+         }
+
+         .theme-dark #bn_240180883 {
+            background-color: #56a7bf;
+            color: #eaf4f7;
+         }
+
+         .theme-dark #bn_240180883:hover {
+            background-color: #b3d7e2;
+            color: #56a7bf;
+            border: 1px solid #7bbacd;
+         }
+      </style>
+      <a href='/glpi_old/plugins/formcreator/front/issue.php?criteria%5B0%5D%5Bfield%5D=4&criteria%5B0%5D%5Bsearchtype%5D=equals&criteria%5B0%5D%5Bvalue%5D=process&reset=reset'
+         id="bn_240180883"
+         class="card big-number "
+         title="">
+         <span class="content">            <span title="3"
+                  class="formatted-number"
+                  data-precision='0'>
+               <span class="number">3</span>
+               <span class="suffix"></span>
+            </span></span>
+         <div class="label" title="Assigné">Assigné</div>
+         <i class="main-icon fas fa-users"></i>
+      </a>";}

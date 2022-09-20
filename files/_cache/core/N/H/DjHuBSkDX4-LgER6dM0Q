@@ -1,0 +1,37 @@
+1662988034
+2cc07b73c5a997d570ade904f198b97cff0acea9
+a:1:{s:66:"plugin_formcreator_all_issues_23ad3724-24d2-4c4f-a8f5-179d9481d70f";s:1139:"      <style>
+         #bn_932563233 {
+            background-color: #ffd957;
+            color: #8a6b00;
+         }
+
+         #bn_932563233:hover {
+            background-color: #ffc80b;
+            border: 1px solid #bd9200;
+         }
+
+         .theme-dark #bn_932563233 {
+            background-color: #8a6b00;
+            color: #ffd957;
+         }
+
+         .theme-dark #bn_932563233:hover {
+            background-color: #ffc80b;
+            color: #8a6b00;
+            border: 1px solid #bd9200;
+         }
+      </style>
+      <a href='/glpi_old/plugins/formcreator/front/issue.php?criteria%5B0%5D%5Bfield%5D=4&criteria%5B0%5D%5Bsearchtype%5D=equals&criteria%5B0%5D%5Bvalue%5D=all&reset=reset'
+         id="bn_932563233"
+         class="card big-number "
+         title="">
+         <span class="content">            <span title="43"
+                  class="formatted-number"
+                  data-precision='0'>
+               <span class="number">43</span>
+               <span class="suffix"></span>
+            </span></span>
+         <div class="label" title="Tous">Tous</div>
+         <i class="main-icon "></i>
+      </a>";}

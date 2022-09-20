@@ -1,0 +1,37 @@
+1663060947
+f55501bc9a5597f5642e0b4af346a05e0cf6f82d
+a:1:{s:61:"bn_count_TicketRecurrent_13f79539-61f6-45f7-8dde-045706e652f2";s:1099:"      <style>
+         #bn_685797315 {
+            background-color: #fafafa;
+            color: #949494;
+         }
+
+         #bn_685797315:hover {
+            background-color: #d4d4d4;
+            border: 1px solid #aeaeae;
+         }
+
+         .theme-dark #bn_685797315 {
+            background-color: #949494;
+            color: #fafafa;
+         }
+
+         .theme-dark #bn_685797315:hover {
+            background-color: #d4d4d4;
+            color: #949494;
+            border: 1px solid #aeaeae;
+         }
+      </style>
+      <a href='/glpi_old/front/ticketrecurrent.php?reset=reset'
+         id="bn_685797315"
+         class="card big-number  filter-dates filter-dates_mod"
+         title="">
+         <span class="content">            <span title="0"
+                  class="formatted-number"
+                  data-precision='0'>
+               <span class="number">0</span>
+               <span class="suffix"></span>
+            </span></span>
+         <div class="label" title="Tickets récurrents">Tickets récurrents</div>
+         <i class="main-icon ti ti-alarm"></i>
+      </a>";}

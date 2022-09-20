@@ -1,0 +1,37 @@
+1662122139
+da310e45e778a1bfb8fc8952557f3a9c1c0e0a5c
+a:1:{s:62:"bn_count_tickets_assigned_7455c855-6df8-4514-a3d9-8b0fce52bd63";s:1807:"      <style>
+         #bn_399764014 {
+            background-color: #eaf5f7;
+            color: #56afbf;
+         }
+
+         #bn_399764014:hover {
+            background-color: #b3dbe2;
+            border: 1px solid #7bc0cd;
+         }
+
+         .theme-dark #bn_399764014 {
+            background-color: #56afbf;
+            color: #eaf5f7;
+         }
+
+         .theme-dark #bn_399764014:hover {
+            background-color: #b3dbe2;
+            color: #56afbf;
+            border: 1px solid #7bc0cd;
+         }
+      </style>
+      <a href='/glpi_old/front/ticket.php?criteria%5B0%5D%5Bfield%5D=12&criteria%5B0%5D%5Bsearchtype%5D=equals&criteria%5B0%5D%5Bvalue%5D=2&criteria%5Bcriteria%5D%5Bcriteria%5D%5B0%5D%5Blink%5D=AND&criteria%5Bcriteria%5D%5Bcriteria%5D%5B0%5D%5Bfield%5D=15&criteria%5Bcriteria%5D%5Bcriteria%5D%5B0%5D%5Bsearchtype%5D=morethan&criteria%5Bcriteria%5D%5Bcriteria%5D%5B0%5D%5Bvalue%5D=2022-08-19%2000%3A00%3A00&criteria%5Bcriteria%5D%5Bcriteria%5D%5B1%5D%5Blink%5D=AND&criteria%5Bcriteria%5D%5Bcriteria%5D%5B1%5D%5Bfield%5D=15&criteria%5Bcriteria%5D%5Bcriteria%5D%5B1%5D%5Bsearchtype%5D=lessthan&criteria%5Bcriteria%5D%5Bcriteria%5D%5B1%5D%5Bvalue%5D=2022-08-31%2000%3A00%3A00&reset=reset'
+         id="bn_399764014"
+         class="card big-number  filter-dates filter-dates_mod filter-itilcategory filter-group_tech filter-user_tech filter-requesttype filter-location"
+         title="">
+         <span class="content">            <span title="3"
+                  class="formatted-number"
+                  data-precision='0'>
+               <span class="number">3</span>
+               <span class="suffix"></span>
+            </span></span>
+         <div class="label" title="Tickets assignés">Tickets assignés</div>
+         <i class="main-icon fas fa-users"></i>
+      </a>";}

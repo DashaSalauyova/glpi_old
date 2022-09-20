@@ -1,0 +1,37 @@
+1662122139
+bd234b5029e8504d284c89926b39067369f416a2
+a:1:{s:52:"bn_count_Change_b9b87513-4f40-41e6-8621-f51f9a30fb19";s:1395:"      <style>
+         #bn_1106832486 {
+            background-color: #cae3c4;
+            color: #569546;
+         }
+
+         #bn_1106832486:hover {
+            background-color: #9bca90;
+            border: 1px solid #6db25c;
+         }
+
+         .theme-dark #bn_1106832486 {
+            background-color: #569546;
+            color: #cae3c4;
+         }
+
+         .theme-dark #bn_1106832486:hover {
+            background-color: #9bca90;
+            color: #569546;
+            border: 1px solid #6db25c;
+         }
+      </style>
+      <a href='/glpi_old/front/change.php?criteria%5B0%5D%5Blink%5D=AND&criteria%5B0%5D%5Bfield%5D=15&criteria%5B0%5D%5Bsearchtype%5D=morethan&criteria%5B0%5D%5Bvalue%5D=2022-08-19%2000%3A00%3A00&criteria%5B1%5D%5Blink%5D=AND&criteria%5B1%5D%5Bfield%5D=15&criteria%5B1%5D%5Bsearchtype%5D=lessthan&criteria%5B1%5D%5Bvalue%5D=2022-08-31%2000%3A00%3A00&reset=reset'
+         id="bn_1106832486"
+         class="card big-number  filter-dates filter-dates_mod"
+         title="">
+         <span class="content">            <span title="0"
+                  class="formatted-number"
+                  data-precision='0'>
+               <span class="number">0</span>
+               <span class="suffix"></span>
+            </span></span>
+         <div class="label" title="Changement">Changement</div>
+         <i class="main-icon ti ti-clipboard-check"></i>
+      </a>";}

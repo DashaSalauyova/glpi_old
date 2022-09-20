@@ -1,0 +1,19 @@
+{
+    "terminal.integrated.commandsToSkipShell": [
+        "chown"
+    ],
+
+    "emmet.includeLanguages": {
+        "smarty": "html"
+    },
+
+    "emmet.syntaxProfiles": {
+        "smarty": "html"
+    },
+    "emmet.triggerExpansionOnTab": true,
+    "beautify.language": {
+        "html": [
+            "smarty"
+        ]
+    }
+}
